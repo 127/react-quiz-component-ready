@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 function QuizResultFilter({ filteredValue, handleChange, appLocale }) {
   const [isOpen, setIsOpen] = useState(false);

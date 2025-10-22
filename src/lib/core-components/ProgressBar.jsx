@@ -1,5 +1,3 @@
-import React from 'react';
-
 function ProgressBar({
   progressBarColor = '#9de1f6', progress, height = '25px', quizLength, isEndQuiz,
 }) {

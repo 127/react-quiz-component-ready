@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Explanation({ question, isResultPage }) {
   const { explanation } = question;
 

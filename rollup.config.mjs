@@ -60,7 +60,9 @@ export default [
       commonjs({
         include: 'node_modules/**',
       }),
-      terser(),
+      terser({
+        maxWorkers: 1,
+      }),
     ],
   },
 ];
