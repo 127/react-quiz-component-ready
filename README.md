@@ -1,4 +1,4 @@
-# react-quiz-component
+# react-quiz-component-ready
 
 ## COMPATIBLE WITH REACT 19 VERSION
 
