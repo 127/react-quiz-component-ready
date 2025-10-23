@@ -33,6 +33,13 @@ React-quiz-component is a ReactJS component allowing users to attempt a quiz. Ba
 npm i react-quiz-component
 ```
 
+## Postinstall
+
+(types will be added later)
+
+- Create file quizfix.d.ts
+- Add string ```declare module 'react-quiz-component-ready';``` to it.
+
 ## Importing react-quiz-component
 
 ```js
