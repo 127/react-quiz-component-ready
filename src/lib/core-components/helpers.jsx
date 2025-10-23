@@ -1,5 +1,6 @@
 import snarkdown from 'snarkdown';
 import dompurify from 'dompurify';
+import React from 'react';
 
 export const rawMarkup = (data) => {
   const sanitizer = dompurify.sanitize;

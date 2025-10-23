@@ -1,7 +1,7 @@
 {
-  "name": "react-quiz-component",
-  "version": "0.9.2",
-  "description": "React Quiz Component",
+  "name": "react-quiz-component-ready",
+  "version": "1.0.0",
+  "description": "React Quiz Component compatible with React 18 and React 19",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -15,7 +15,16 @@
     "reactjs",
     "react-quiz-component",
     "react-quiz",
-    "quiz"
+    "quiz",
+    "quiz-component",
+    "quiz-app",
+    "quiz-maker",
+    "quiz-generator",
+    "quiz-creator",
+    "quiz-library",
+    "quiz-software",
+    "react 18",
+    "react 19"
   ],
   "license": "MIT",
   "devDependencies": {
@@ -52,11 +61,11 @@
     "webpack-cli": "^6.0.0",
     "webpack-dev-server": "^5.0.0"
   },
-  "author": "WK Wong <wingkwong.code@gmail.com>",
-  "homepage": "https://github.com/wingkwong/react-quiz-component",
+  "author": "Mamyashev Marat <mamyashev.marat@gmail.com>",
+  "homepage": "https://github.com/127/react-quiz-component-ready",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wingkwong/react-quiz-component.git"
+    "url": "https://github.com/127/react-quiz-component-ready.git"
   },
   "dependencies": {
     "dompurify": "^3.3.0",

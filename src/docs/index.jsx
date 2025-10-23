@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import Quiz from '../lib/Quiz';
 import quiz from './quiz';
