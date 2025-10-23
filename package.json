@@ -1,7 +1,7 @@
 {
   "name": "react-quiz-component-ready",
   "version": "1.0.0",
-  "description": "React Quiz Component compatible with React 18 and React 19",
+  "description": "React Quiz Component Ready compatible with React 18 and React 19",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
